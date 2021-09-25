@@ -1,0 +1,24 @@
+{
+  "name": "@kirillskliarov/sleep",
+  "version": "0.0.0",
+  "description": "Sleep functions",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kirillskliarov/sleep.git"
+  },
+  "keywords": [
+    "sync",
+    "async",
+    "sleep"
+  ],
+  "author": "Kirill Skliarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirillskliarov/sleep/issues"
+  },
+  "homepage": "https://github.com/kirillskliarov/sleep#readme"
+}
